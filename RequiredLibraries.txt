@@ -1,0 +1,7 @@
+QR Code:- To Generate QR code for the invoice which holds the data :
+1.Name of the Participant
+2.Event name
+3.Invoice Number
+4.Amount details
+reportlab: To generate the Complete Invoice using report lab only
+Pandas:To handle the participants details
